@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"php.validate.executablePath": "C:\\Users\\Sookie188\\Downloads\\php-7.3.25\\php.exe"
+	}
+}

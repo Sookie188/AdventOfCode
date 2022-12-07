@@ -1,0 +1,5 @@
+test.txt
+__init__.py
+.env
+.vscode/settings.json
+.DS_Store
