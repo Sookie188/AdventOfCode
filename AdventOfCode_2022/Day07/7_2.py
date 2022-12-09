@@ -12,7 +12,7 @@ def get_dir_size(dir):
     return size
 
 
-input = get_strings("Day07/input.txt")
+input = get_strings("AdventOfCode_2022/Day07/input.txt")
 
 root = Node('root', parent=None, size=0, directory=True)
 current = root

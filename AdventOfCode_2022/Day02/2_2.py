@@ -1,4 +1,4 @@
-filename = "Day02/input.txt"
+filename = "AdventOfCode_2022/Day02/input.txt"
 
 with open(filename, "r") as fp:
     input = fp.readlines()

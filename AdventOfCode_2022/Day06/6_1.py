@@ -1,4 +1,4 @@
-with open("Day06/input.txt", "r") as fp:
+with open("AdventOfCode_2022/Day06/input.txt", "r") as fp:
     input = fp.read()
 
 

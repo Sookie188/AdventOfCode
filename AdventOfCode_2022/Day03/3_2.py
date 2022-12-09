@@ -1,4 +1,4 @@
-with open("Day03/input.txt", "r") as fp:
+with open("AdventOfCode_2022/Day03/input.txt", "r") as fp:
     input = fp.readlines()
 
 

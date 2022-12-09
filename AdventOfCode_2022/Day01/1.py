@@ -1,4 +1,4 @@
-with open("Day01/input.txt", "r") as fp:
+with open("AdventOfCode_2022/Day01/input.txt", "r") as fp:
     nums = fp.readlines()
 
 smol_arr = []
