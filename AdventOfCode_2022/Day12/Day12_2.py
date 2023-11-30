@@ -66,3 +66,4 @@ for start in more_starts:
 
 
 print(min(result_list))
+print(end) 

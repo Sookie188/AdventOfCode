@@ -4,7 +4,7 @@ import math
 with open("AdventOfCode_2022/Day12/input.txt", "r") as fp:
     input = fp.readlines()
 
-heights = []
+heights = [] 
 
 for line in input:
     heights.append([[height, 99999999999] for height in list(line.rstrip())])
@@ -75,4 +75,4 @@ def find_shortest_path(heightmap, start):
 
 find_shortest_path(heightmap, start)
 print(heightmap[end])
-print(end)
+print(theEnd)
