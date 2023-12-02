@@ -1,5 +1,3 @@
-import re
-
 with open("AdventOfCode_2023/01.txt") as fp:
     input = fp.readlines()
    
