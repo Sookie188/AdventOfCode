@@ -1,4 +1,4 @@
-with open("AdventOfCode_2023/02") as fp:
+with open("AdventOfCode_2023/input/02.txt") as fp:
     input = fp.readlines()
 
 def part1(input):
